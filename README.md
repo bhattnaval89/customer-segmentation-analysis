@@ -6,3 +6,4 @@
 - ⬜ Phase 4 - Feature Engineering
 - ⬜ Phase 5 - Customer Segmentation
 - ⬜ Phase 6 - Evaluation & Business Insights
+ 
